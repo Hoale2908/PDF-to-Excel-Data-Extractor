@@ -1,7 +1,11 @@
 # PDF to EXCEL Data Extraction
 
-Need to copy data from hundreds of PDFs? This notebook helps you import the PDFs directly from your computer to your Google Drive, convert them to images, then extract the data you want into Excel.
+Have hundreds of PDFs that you need to copy data from? 
 
-👉 No installations required on your computer
-👉 No data retainted on Google Drive
-👉 No cost
+This notebook will help you extract the data you want into Excel in .csv format.
+
+✅ No installations required on your computer <br>
+✅ No data retainted on Google Drive <br>
+✅ No cost <br>
+
+👉 Use it for free from [Google Colab](https://colab.research.google.com/drive/1RhsaXCDj0p2mrdgJIE-YBmiOiYY6VS_i?usp=sharing)
