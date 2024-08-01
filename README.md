@@ -1,4 +1,4 @@
-# PDF to EXCEL Data Extraction
+# PDF to EXCEL Data Extractor
 
 Have hundreds of PDFs that you need to copy data from? 
 
